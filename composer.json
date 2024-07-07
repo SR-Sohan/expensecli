@@ -2,7 +2,7 @@
     "name": "shikkhangon/expensecli",
     "autoload": {
         "psr-4": {
-            "Shikkhangon\\Expensecli\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
@@ -11,5 +11,7 @@
             "email": "sr.sohanur22@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/console": "^7.1"
+    }
 }
