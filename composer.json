@@ -1,0 +1,15 @@
+{
+    "name": "shikkhangon/expensecli",
+    "autoload": {
+        "psr-4": {
+            "Shikkhangon\\Expensecli\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SR-Sohan",
+            "email": "sr.sohanur22@gmail.com"
+        }
+    ],
+    "require": {}
+}
